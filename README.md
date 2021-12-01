@@ -117,12 +117,14 @@ myWorld_user01.jsp
 - main_photo.jsp		사진글 출력		photo DB
 - footer.jsp		메인 푸터
 - logout.jsp		로그아웃 
+<img width="1427" alt="home" src="https://user-images.githubusercontent.com/70897603/144176572-d7335d9b-faab-4a81-b31b-b5bddda4b2f6.png">
 
 [1] edit
 - main_header.jsp
 - main_edit.jsp		프로필 편집 페이지	member DB
 - edit_process.jsp 	프로필 편집 동작 
 - footer.jsp
+<img width="1427" alt="edit" src="https://user-images.githubusercontent.com/70897603/144176605-b1105fac-55e0-4d1e-9e22-c8f80fb48ca6.png">
 
 [2] forum
 - main_header.jsp
@@ -130,6 +132,7 @@ myWorld_user01.jsp
 - forum_post.jsp 	게시글 작성 	forum DB
 - forumPost_process.jsp 	게시글 작성 동작 
 - footer.jsp
+<img width="1427" alt="forum" src="https://user-images.githubusercontent.com/70897603/144176627-7158829a-eca7-4203-8898-ab50df0b2414.png">
 
 [3]  photo
 - main_header.jsp
@@ -138,6 +141,7 @@ myWorld_user01.jsp
 - photo_post.jsp		사진글 작성 	photo DB
 - photoPost_process.jsp 	사진글 작성 동작 
 - footer.jsp
+<img width="1427" alt="photo" src="https://user-images.githubusercontent.com/70897603/144176642-a8078d17-e14c-45e2-bcb6-b0f6925e63fd.png">
 
 [4] shop
 - shop.jsp			음악 쇼핑  		music_shop DB
@@ -147,6 +151,7 @@ myWorld_user01.jsp
 - shop_removeCart.jsp		장바구니에서 음악 한 개 삭제 
 - shop_purchaseCart.jsp 		장바구니에서 구매		music DB
 - footer.jsp
+<img width="1427" alt="shop" src="https://user-images.githubusercontent.com/70897603/144176655-be167095-97a9-48c8-acbc-7a609d95373e.png">
 
 - paymentInfo.jsp 		결제정보등록 		쿠키 이용
 - paymentInfo_process.jsp		결제 정보 처리 페이지 
