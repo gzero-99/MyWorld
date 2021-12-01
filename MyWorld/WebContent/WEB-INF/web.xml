@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+   <security-role>
+   	  <description></description>
+      <role-name>mw_admin</role-name>
+   </security-role>
+   <security-constraint>
+   		<display-name>MyWorld Security</display-name>
+      <web-resource-collection>
+         <web-resource-name>MyWorld</web-resource-name>
+         <description></description>
+         <url-pattern>/admin_process.jsp</url-pattern><!--initial.jsp -->
+      </web-resource-collection>
+      <auth-constraint>
+         <description>권한 관리자명</description>
+         <role-name>mw_admin</role-name>
+      </auth-constraint>
+   </security-constraint>
+   <login-config>
+      <auth-method>FORM</auth-method>
+      <form-login-config>
+         <form-login-page>/admin_login.jsp</form-login-page> <!-- 인증을 위한 로그인 페이지  -->
+         <form-error-page>/login_failed.jsp</form-error-page> <!-- 로그인 실패시,표시할 오류 페이지 -->
+      </form-login-config>
+   </login-config>
+   
+   <error-page>
+   		<error-code>404</error-code>
+   		<location>/exceptionNoPage.jsp</location>
+   </error-page>
+   
+</web-app>
