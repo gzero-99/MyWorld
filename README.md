@@ -134,6 +134,7 @@ myWorld_user01.jsp
 - forumPost_process.jsp 	게시글 작성 동작 
 - footer.jsp
 <img width="1427" alt="forum" src="https://user-images.githubusercontent.com/70897603/144176627-7158829a-eca7-4203-8898-ab50df0b2414.png">
+<img width="1427" alt="스크린샷 2022-01-01 오전 1 31 54" src="https://user-images.githubusercontent.com/70897603/147832483-a6ff4e76-4279-4a68-b579-cfff78696f82.png">
 
 [3]  photo
 - main_header.jsp
