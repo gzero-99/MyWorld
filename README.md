@@ -79,6 +79,7 @@ ex. korla2 가 로그인 했다면 myWorld_korla2.jsp가 열림 (세션 생성)
 - initial_contact.jsp 	연락처
 - initial_header.jsp 	헤더
 - footer.jsp
+<img width="1427" alt="스크린샷 2021-12-31 오후 2 33 06" src="https://user-images.githubusercontent.com/70897603/147805363-09ac2db9-1aad-473b-a219-4da9f83f9684.png">
 
 [0] 관리자 로그인 (tomcat server : tomcat-users.xml 에 등록된)
 -  id: mw_admin / pw: 1234 / role: mw_admin
