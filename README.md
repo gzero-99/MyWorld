@@ -144,6 +144,7 @@ myWorld_user01.jsp
 - photoPost_process.jsp 	사진글 작성 동작 
 - footer.jsp
 <img width="1427" alt="photo" src="https://user-images.githubusercontent.com/70897603/144176642-a8078d17-e14c-45e2-bcb6-b0f6925e63fd.png">
+<img width="1427" alt="스크린샷 2022-01-02 오후 3 19 25" src="https://user-images.githubusercontent.com/70897603/147867880-0a7c2f8c-72c8-405b-b5e2-c0479783c5ef.png">
 
 [4] shop
 - shop.jsp			음악 쇼핑  		music_shop DB
