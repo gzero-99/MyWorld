@@ -6,9 +6,10 @@ MyWorld : jsp web programming project
 
 ================================================
 
-< MyWorld 실행 가이드 >
+### < MyWorld 실행 가이드 >
 
 (0) MyWorld Project file - Tomcat Server에 등록
+
 (1) MySQL DB *
 * Database (myworlddb)에 
 * Table 6개 -> sql 폴더 안의 .sql 파일들 execute All
@@ -72,7 +73,7 @@ ex. korla2 가 로그인 했다면 myWorld_korla2.jsp가 열림 (세션 생성)
 [적용] :  프로필 사진과 음악은 변경 필수 / 자기소개는 변경하지 않아도 됨 
 
 ================================================
- < 소스코드 설명 #1 >
+ ### < 소스코드 설명 #1 >
 
 * initial.jsp 에서 시작 	초기화면 
 - initial_features.jsp	특징
@@ -109,7 +110,7 @@ ex.
 myWorld_user01.jsp
 
 ————————————————————
-< 소스코드 설명 #2 >
+### < 소스코드 설명 #2 >
 
 *  myWorld_user01.jsp 
 [0] home 
@@ -163,7 +164,7 @@ myWorld_user01.jsp
 
 ———————————————————
 
-* 그 외 
+### * 그 외 
 validation.js
 bundle.message_en.properties
 bundle.message.properties
